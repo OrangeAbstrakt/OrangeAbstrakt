@@ -28,7 +28,8 @@
 ### Where Can You Find Me:
 
 [![image](https://user-images.githubusercontent.com/81329480/140177210-f9889daa-e151-40bf-b28b-8ef135e2271b.png)](https://dev.to/orange_abstrakt)
+  [![image](https://user-images.githubusercontent.com/81329480/140177924-befd5fcd-0d5e-4a4c-994c-f152133fe709.png)](https://replit.com/@OrangeAbstrakt)
+  [![image](https://user-images.githubusercontent.com/81329480/140179037-bd058d2a-b10c-4191-994a-733216ac3926.png)](https://github.com/OrangeAbstrakt)
 
-[![image](https://user-images.githubusercontent.com/81329480/140177924-befd5fcd-0d5e-4a4c-994c-f152133fe709.png)](https://replit.com/@OrangeAbstrakt)
 
 
