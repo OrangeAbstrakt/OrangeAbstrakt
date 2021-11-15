@@ -32,4 +32,9 @@
   [![image](https://user-images.githubusercontent.com/81329480/140179037-bd058d2a-b10c-4191-994a-733216ac3926.png)](https://github.com/OrangeAbstrakt)
 
 
+![OrangeAbstrakt's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeAbstrakt&show_icons=true&theme=highcontrast)
+
+
+
+
 
